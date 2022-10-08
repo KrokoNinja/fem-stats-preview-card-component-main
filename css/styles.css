@@ -1,0 +1,22 @@
+:root {
+    /* Breakpoints*/
+    --mobile-breakpoint: 375px;
+    --desktop-breakpoint: 1440px;
+
+    /* Colors */
+        /* Primary */
+    --very-dark-blue: hsl(233, 47%, 7%);
+    --dark-desaturated-blue: hsl(244, 38%, 16%);
+    --soft-violet: hsl(277, 64%, 61%);
+        /* Neutral */
+    --white: hsl(0, 0%, 100%);
+    --slightly-transparent-white-paragraph: hsla(0, 0%, 100%, 0.75);
+    --slightly-transparent-white-heading: hsla(0, 0%, 100%, 0.6);
+
+    /* Typography */
+        /* Font-sizes */
+    --fs-400: 0.9375rem;
+        /* Fonts */
+    --ff-primary: 'Inter';
+    --ff-secondary: 'Lexend Deca';
+}
